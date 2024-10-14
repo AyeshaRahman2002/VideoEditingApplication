@@ -42,16 +42,5 @@ The development of the app followed an iterative process, starting from basic wi
 - **No Internet Connectivity**: The app currently lacks embedded internet connectivity for file sharing. Users can only share files through Bluetooth or external apps.
 - **Limited Audio Controls**: The app does not yet support features like subtitles or voice recognition, which are planned for future releases.
 
-## Installation and Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/video-editing-app.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd video-editing-app
-   ```
-3. Run the app on your preferred mobile development platform (Android Studio, Xcode, etc.).
-
 ## Demo
 You can check out a video demo of the app's features [here](https://www.youtube.com/watch?v=bOWaq8VsWfk).
